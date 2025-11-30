@@ -1,5 +1,3 @@
-![hierarchy-1-1](https://github.com/user-attachments/assets/d8b40e23-64e0-43cc-a314-8c3541d4295b)
-
 1. What Azure privilege escalation is (with examples, but not exploit steps)
 2. Detection: native tools + Prowler for Azure
 3. Prevention & mitigation: detailed GUI + CLI steps for common risky patterns
